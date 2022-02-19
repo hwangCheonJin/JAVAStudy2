@@ -13,6 +13,9 @@ public class Array {
 		int[] array3 = {1,2,3,4};
 		
 		System.out.println(array3[3]);
+		int value = array3[0];
+		
+		System.out.println(value);
 	}
 
 }
